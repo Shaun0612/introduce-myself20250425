@@ -13,7 +13,7 @@ function setup() {
   imageMode(CENTER);
   
   // 調整圖片大小並顯示在視窗正中心
-  let imgWidth = 1100; // 設定圖片的寬度
+  let imgWidth = 1200; // 設定圖片的寬度
   let imgHeight = 600; // 設定圖片的高度
   image(img, width / 2, height / 2, imgWidth, imgHeight);
 }
